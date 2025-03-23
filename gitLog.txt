@@ -1,6 +1,0 @@
-C:\Users\José Cerero\Documents\NetBeansProjects\Deposito>git log
-commit be221f17bef35fdd9bdf8d9421caf2e2383c544b (HEAD -> master, origin/master)
-Author: José Cerero <jcerero.7@gmail.com>
-Date:   Sun Mar 23 21:04:28 2025 +0100
-
-    Primer commit antes de comentarios Javadoc
